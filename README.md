@@ -2,6 +2,8 @@
 ## About
 This is a simple to-do app created using PHP and MySQL. It utilizes the UIKit CSS framework to enhance the user interface.
 
+<img src="home.png" alt="Home Page" width="500px"> <img src="history.png" alt="History Page" width="500px">
+
 ## Usage
 The to-do app allows users to manage their tasks efficiently. You can add tasks, mark them as completed, close completed tasks, and view the task history.
 
